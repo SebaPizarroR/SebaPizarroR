@@ -53,7 +53,7 @@ Me especializo en acortar la brecha entre el **diseño centrado en las personas*
 
 | Tipómetro - Calculadora de interlineado | API REST con Node.js, Express y PostgreSQL |
 | :---: | :---: |
-| [![Tipómetro](https://github.com/thumbnail.webp)](https://github.com/SebaPizarroR/calculadora-line-height) | [![API REST](https://i.imgur.com/thumbnail.webp)](https://github.com/SebaPizarroR/-abp-m7-sebastian-pizarro) |
+| [![Tipómetro](./assets/thumnail_tipometro.webp)](https://github.com/SebaPizarroR/calculadora-line-height) | [![API REST](./assets/thumnail_crud.webp)](https://github.com/SebaPizarroR/-abp-m7-sebastian-pizarro) |
 | [![Código](https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SebaPizarroR/calculadora-line-height) | [![Código](https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SebaPizarroR/-abp-m7-sebastian-pizarro) |
 | Herramienta web interactiva diseñada para ayudar a diseñadores y desarrolladores a calcular el interlineado (*line-height*) tipográfico óptimo. | Proyecto backend de operaciones CRUD para gestionar usuarios mediante una API REST con Node.js, Express y PostgreSQL. |
 
