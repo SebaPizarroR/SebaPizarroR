@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://sebapizarro.com" target="_blank">Seba Pizarro</a> 👋</h1>
 </div> -->
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQFJLWvIWwJgBA/profile-displaybackgroundimage-shrink_350_1400/B4DZy6dCF4KgAY-/0/1772654699309?e=1790812800&v=beta&t=ay5NoeSBK5T3_2Ih5b6VQxkq6EZrM-XfzRNpoY0t-7A">
+![Portada](./assets/portada.webp)
 
 ### ¡Hola! Soy [Seba Pizarro](https://sebapizarro.com) 👋 
 #### Full Stack Developer Junior & UX/UI Designer
